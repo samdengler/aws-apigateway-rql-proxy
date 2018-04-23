@@ -1,0 +1,12 @@
+{
+  "name": "aws-apigateway-rql-proxy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "rql": "^0.3.3"
+  }
+}
